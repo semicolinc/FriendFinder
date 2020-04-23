@@ -5,7 +5,11 @@
 - Path https://www.npmjs.com/package/path<br>
 - Body-parser https://www.npmjs.com/package/body-parser<br>
 
-<h3>Instruction</h3>
+<h3>Instructions (Heroku)</h3>
+<hr>
+Go to https://friend-finder-semicolinc.herokuapp.com/ <br>
+
+<h3>Instructions (LocalHosting)</h3>
 <hr>
 1) Download the files<br>
 2) Open up a terminal within the coding file and type in the command: <br>
